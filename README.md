@@ -1,6 +1,5 @@
 ### Hola 👋
-### Mi nombre es Diego Oropeza, un gusto saludarte!
-## Bienvenido a mi curriculum web, si estas aqui es porque quieres verificar la documentacion y certificaciones que mensione en mi cv o porque quieres saber mas acerca de mi...
+
 <!--
 **MrRobot586/MrRobot586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
