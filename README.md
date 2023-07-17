@@ -1,5 +1,7 @@
-![Banner](github_banner.png)
-<h1 style="text-align: center;"> Hi there, i'm Diego Oropeza (MrRobot_586) </h1>
+<img style="border-radius:10%" src="github_banner.png" />
+<h1 align="center">👋 Hi there, i'm Diego Oropeza (MrRobot_586)</h1>
+<h4 align="center"><strong>Full-stack web developer 🧑‍💻 | Computer engineering student 🤓 </strong></h4>
+
 <!--
 **MrRobot586/MrRobot586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
