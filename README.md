@@ -2,9 +2,10 @@
 <h1 align="center">👋 Hi there! I'm Diego Oropeza (MrRobot_586) </h1>
 
 <p align="center">
-Computer engineering student 🤓 and full-stack web developer Jr. 🧑‍💻 with a persistent attitude and a strong commitment to achieve my goals 🎯. 
-<br>🔥 My current goal is to become a fulls-tack web development professional, specialized in React.js and Express.
-</p> 
+  Full-stack web developer 🧑‍💻 | Computer engineering student 🤓 with a persistent attitude to achieve my goals 🎯.
+  My current goal is to become a fulls-tack web development professional, specialized in React.js and Express 🔥.
+</p>
+
 <!--
 **MrRobot586/MrRobot586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
