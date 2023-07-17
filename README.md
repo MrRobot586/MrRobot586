@@ -3,6 +3,7 @@
 
 <p align="center">
   Full-stack web developer 🧑‍💻 | Computer engineering student 🤓 with a persistent attitude to achieve my goals 🎯.
+  <br>
   My current goal is to become a fulls-tack web development professional, specialized in React.js and Express 🔥.
 </p>
 
