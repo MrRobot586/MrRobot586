@@ -1,10 +1,12 @@
 <img src="github_banner.png" /> 
-<h1 align="center">👋 Hi there! I'm Diego Oropeza (MrRobot_586) </h1>
+<h1 align="center"> 👋 Hi there! I'm Diego Oropeza (MrRobot_586) </h1>
 
 <p align="center">
   Full-stack web developer 🧑‍💻 | Computer engineering student 🤓 with a persistent attitude to achieve my goals 🎯.
   <br>
-  My current goal is to become a fulls-tack web development professional, specialized in React.js and Express 🔥.
+  My current goal is to become a fulls-tack web development professional, specialized in React.js, Node and Express 🔥.
+  <br>
+  🌱 I’m currently learning the MERN stack (MongoDB, Express, React and Node)
 </p>
 
 <!--
